@@ -1,7 +1,7 @@
 # Hi, I'm Nazareth 👩‍💻
 
 🎓 Business Informatics Student at UCR  
-💻 Software Developer focused on Backend  
+💻 Software Developer focused on Backend and FullStack 
 
 ## 🚀 Technologies
 - Java & Spring Boot
