@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nazareth 👩‍💻
 
-<!--
-**NazarethS06/NazarethS06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Business Informatics Student at UCR  
+💻 Software Developer focused on Backend  
 
-Here are some ideas to get you started:
+## 🚀 Technologies
+- Java & Spring Boot
+- SQL (MySQL, SQL Server)
+- REST APIs & JWT
+- React (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- ERP System (Inventory & Sales)
+- Classroom Management System
+
+## 🎯 Goals
+Looking for internship opportunities in software development
+
+## 📫 Contact
+- LinkedIn: linkedin.com/in/nazareth-sanchez-navarro donde pongo esto
