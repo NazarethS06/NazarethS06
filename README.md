@@ -17,4 +17,6 @@
 Looking for internship opportunities in software development
 
 ## 📫 Contact
-- LinkedIn: linkedin.com/in/nazareth-sanchez-navarro donde pongo esto
+- LinkedIn: linkedin.com/in/nazareth-sanchez-navarro
+- Gmail: nazaretsnjaz1406@gmail.com
+- Telefono: 86171318
